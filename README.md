@@ -1,5 +1,16 @@
 # VS Code AI Capabilities Guide
 
+## Table of Contents
+
+- [`copilot-instructions.md`](#1-copilot-instructionsmd)
+- [Prompt Files](#2-prompt-files)
+- [Skills](#3-skills)
+- [Custom Agent](#4-custom-agent)
+- [Recommended Folder Structure](#recommended-folder-structure)
+- [Beginner Workflow (Simple)](#beginner-workflow-simple)
+- [Skill vs Agent (Cost and Benefit)](#skill-vs-agent-cost-and-benefit)
+- [Quick Checklist: Finding the Cheapest Reliable Model](#quick-checklist-finding-the-cheapest-reliable-model)
+  
 ## Purpose of This Guide
 
 This document explains practical AI capabilities you can use inside VS Code and related coding-agent workflows:

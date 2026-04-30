@@ -175,6 +175,28 @@ Why: This requires iterative reasoning, context switching, and adaptive decision
 5. Keep simple tasks on cheaper models for steady cost savings.
 6. Recheck pricing and performance regularly.
 
+---
+## Decision Matrix: Prompt File vs Skill vs Agent
+
+| Criteria | Prompt File | Skill | Agent |
+|---|---|---|---|
+| Best for | Reusable instruction templates | Standardized repeatable workflows | Complex, adaptive, multi-step tasks |
+| Task complexity | Low to medium | Low to medium | Medium to high |
+| Cost efficiency | High | Very high | Medium to low |
+| Speed | Fast | Very fast | Slower |
+| Consistency of output | Medium (depends on usage) | High (enforced structure) | Medium to high (depends on controls) |
+| Setup effort | Low | Medium | High |
+| Flexibility | High | Medium | Very high |
+| Governance/control | Medium | High | High (with strong guardrails) |
+| Beginner friendliness | High | High | Medium |
+| Typical example | Code review prompt template | `/generate-view-template` scaffold generation | Root-cause analysis + fix across workflows/files |
+
+### Recommended Choice by Situation
+
+- Use **Prompt File** when you need lightweight reusable guidance.
+- Use **Skill** when the workflow is repetitive and must be consistent.
+- Use **Agent** when the task requires deep reasoning and adaptation.
+
 ### Mini Example
 
 - `Generate standard SQL/view template` -> low-cost model.

@@ -124,8 +124,6 @@ docs/
 ---
 
 
----
-
 ## Skill vs Agent (Cost and Benefit)
 
 ### Why Skills Are Often More Cost-Effective

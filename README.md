@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [`copilot-instructions.md`](#1-copilot-instructionsmd)
+- [copilot-instructions.md](#1-copilot-instructionsmd)
 - [Prompt Files](#2-prompt-files)
 - [Skills](#3-skills)
 - [Custom Agent](#4-custom-agent)
@@ -10,6 +10,7 @@
 - [Beginner Workflow (Simple)](#beginner-workflow-simple)
 - [Skill vs Agent (Cost and Benefit)](#skill-vs-agent-cost-and-benefit)
 - [Quick Checklist: Finding the Cheapest Reliable Model](#quick-checklist-finding-the-cheapest-reliable-model)
+- [Decision Matrix: Prompt File vs Skill vs Agent](#decision-matrix-prompt-file-vs-skill-vs-agent)
   
 ## Purpose of This Guide
 

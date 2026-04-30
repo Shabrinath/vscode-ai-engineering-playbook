@@ -35,7 +35,7 @@ For each capability, you will learn:
 A repository-level instruction file (commonly in `.github/copilot-instructions.md`) that defines how AI should behave for this specific project.
 
 ### How it is used
-
+ 
 1. Add project standards, workflow rules, and quality expectations.
 2. Define tool or command protocols (for example, skill invocation rules).
 3. Keep instructions version-controlled so everyone uses the same AI behavior.
